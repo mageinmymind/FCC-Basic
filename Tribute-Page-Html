@@ -1,0 +1,61 @@
+<style>
+  .jumbotron {
+  font-family: HGP Mincho B, Advent Pro;
+  }
+  <!--
+  .center{
+    width:600px;
+    margin:0 auto;
+    text-align:left;
+}
+-->
+div {
+  color:#1d2120;
+  }
+
+</style>
+
+
+<div class="container">
+  <div style="background:#e1e8f0 !important" class="jumbotron">
+    <div class="row">
+    <div class="col-xs-12">
+      <header><h1 class="text-center">Bakemonogatari</h1></header>
+      <h2 class="text-center"><em>A Shaft Production</em></h2>
+
+   <div>
+        <img  src="http://i30.tinypic.com/69qq8l.jpg" width="100%" style="border: solid .5px;"/>
+      <footer style="text-align:center; background-color: white; padding: 10px; font-size: 18px; border: solid .5px; border-top: 0px;">A depiction of the Monogatari characters.</footer>
+  </div>
+      <br></br>
+      <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+      <p style="font-size: 30px;"><u>List of Bakemonogatari episodes</u></p>
+      <ul style="font-size: 20px;" >
+        <li><strong>Episode 1:</strong> Hitagi Crab, Part 1</li>
+        <li><strong>Episode 2:</strong> Hitagi Crab, Part 2</li>
+        <li><strong>Episode 3:</strong> Mayoi Snail, Part 1</li>
+        <li><strong>Episode 4:</strong> Mayoi Snail, Part 2</li>
+        <li><Strong>Episode 5:</strong> Mayoi Snail, Part 3</li>
+       <li><strong>Episode 6:</strong> Suruga Monkey, Part 1</li>
+        <li><strong>Episode 7:</strong> Suruga Monkey, Part 2</li>
+        <li><strong>Episode 8:</strong> Suruga Monkey, Part 3</li>
+        <li><strong>Episode 9:</strong> Nadeko Snake, Part 1</li>
+        <li><strong>Episode 10:</strong> Nadeko Snake, Part 2</li>
+        <li><strong>Episode 11:</strong> Tsubasa Cat, Part 1</li>
+        <li><strong>Episode 12:</strong> Tsubasa Cat, Part 2</li>
+        <li><strong>Episode 13:</strong> Tsubasa Cat, Part 3</li>
+        <li><strong>Episode 14:</strong> Tsubasa Cat, Part 4</li>
+        <li><strong>Episode 15:</strong> Tsubasa Cat, Part 5</li>
+        </ul>
+        <p style="font-size: 24px;">"Curiosity is like a cockroach. It likes to stumble upon secrets that are supposed to stay hidden."</p>
+        <footer><cite>Hitagi Senjougahara</cite></footer>
+
+        <br></br>
+    <p class="text-center" style="font-size: 30px; color:#1d2120;">If you have the time, feel free to visit the <a href="https://en.wikipedia.org/wiki/Monogatari_(series)" target="_blank" style="text-decoration: none; color:#9068be;" >Bakemonogatari Wiki</a> to learn more!</p>
+        </div>
+    </div>
+    </div>
+  </div>
+</div>
+
+<footer style="text-align:center; border-top: solid 0.25px #f2efef; padding-top: 10px; color:#1d2120;">Written and coded by<span style="color:#9068be;"> Michael Shea</span></footer>
